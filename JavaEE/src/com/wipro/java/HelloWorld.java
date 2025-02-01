@@ -2,6 +2,6 @@ package com.wipro.java;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("my first Code");
+		System.out.println("Hello Wolrd");
 	}
 }
